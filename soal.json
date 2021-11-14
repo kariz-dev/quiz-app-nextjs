@@ -1,0 +1,101 @@
+[
+  {
+    "question": "Web server antar platform yang dapat berjalan di beberapa platform seperti LINUX dan windows adalah...",
+    "answerOptions": [
+      { "answer": "Web route" },
+      { "answer": "Apache", "isCorrect": true },
+      { "answer": "Xampp" },
+      { "answer": "Web server" }
+    ]
+  },
+  {
+    "question": "Penggunaan server side scripting biasanya digunakan untuk membuat halaman web...",
+    "answerOptions": [
+      { "answer": "Dinamis", "isCorrect": true },
+      { "answer": "Statis" },
+      { "answer": "Server" },
+      { "answer": "Client" }
+    ]
+  },
+  {
+    "question": "Jenis script yang pengolahannya dilakukan di sis client disebut...",
+    "answerOptions": [
+      { "answer": "Client side scripting", "isCorrect": true },
+      { "answer": "Server side cripting" },
+      { "answer": "Macintosh" },
+      { "answer": "A dan B benar semua" }
+    ]
+  },
+  {
+    "question": "Dalam bentuk dokumen apa biasanya halaman web mengirimkan kembali hasilnya ...",
+    "answerOptions": [
+      { "answer": "Java" },
+      { "answer": "User" },
+      { "answer": "HTML", "isCorrect": true },
+      { "answer": "Title" }
+    ]
+  },
+  {
+    "question": "Perintah untuk mengganti baris pada HTML adalah...",
+    "answerOptions": [
+      { "answer": "br", "isCorrect": true },
+      { "answer": "tr" },
+      { "answer": "p" },
+      { "answer": "td" }
+    ]
+  },
+  {
+    "question": "Type yang berfungsi untuk menerima masukan berupa teks dari pengguna adalah...",
+    "answerOptions": [
+      { "answer": "Checkbox" },
+      { "answer": "Submit" },
+      { "answer": "File" },
+      { "answer": "Text", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Sebutkan perintah untuk melakukan break pada pembuatan situs HTML!...",
+    "answerOptions": [
+      { "answer": "hr" },
+      { "answer": "li" },
+      { "answer": "br", "isCorrect": true },
+      { "answer": "ul" }
+    ]
+  },
+  {
+    "question": "Kepanjangan HTML adalah...",
+    "answerOptions": [
+      { "answer": "Hyper Text Manual Language" },
+      { "answer": "Hypno Terminal Maximal List" },
+      { "answer": "Hyper Text Mark-up Language", "isCorrect": true },
+      { "answer": "Horizon Terminal Mark-up List" }
+    ]
+  },
+  {
+    "question": "Dalam HTML, dapat ditambahkan hubungan/relasi ke link lain. Berikut ini adalah command dari link yang apabila di klik akan menuju ke www.google.com adalah...",
+    "answerOptions": [
+      { "answer": "<Href a www.google.com> </a>" },
+      { "answer": "<a href www.google.com> </a>" },
+      { "answer": "<ke= www.google.com> </a>" },
+      { "answer": "<a href='www.google.com'></a>", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Jika kita menuliskan perintah “&copy”, maka pada html akan muncul...",
+    "answerOptions": [
+      { "answer": "☺" },
+      { "answer": "®" },
+      { "answer": "©", "isCorrect": true },
+      { "answer": "@" }
+    ]
+  },
+  {
+    "question": "Bagaimana perintah membuat text menjadi berwarna ?",
+    "answerOptions": [
+      { "answer": "<font color='color'>", "isCorrect": true },
+      { "answer": "<bgcolor ='color'>" },
+      { "answer": "<td background='url'>" },
+      { "answer": "<p align ='center'>" }
+    ]
+  }
+]
